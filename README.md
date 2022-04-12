@@ -9,6 +9,7 @@ select：
 
 使用方式：
 field字段配置可参照index.vue组件内说明
+
 <Linkage ref="linkageRef" :field="field" @paramsCall="setParams" />
 
 const linkageRef = ref(null)
